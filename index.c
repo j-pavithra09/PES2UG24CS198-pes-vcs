@@ -23,6 +23,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <dirent.h>
+#include <time.h>
 
 // ─── PROVIDED ────────────────────────────────────────────────────────────────
 
